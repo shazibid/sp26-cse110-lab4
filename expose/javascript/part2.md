@@ -14,7 +14,7 @@
     B. student['Grad Year']
     C. student.greeting()
     D. student['Favorite Teacher'].name
-    E. sudent.courseload[0]
+    E. sudent.courseLoad[0]
 13. Arithmetic
     A. '32' : string concatenation
     B. 1 : '3' = 3
